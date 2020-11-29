@@ -1,6 +1,13 @@
 # MNIST-CNN
 MiniProject 3: Multi-label Classification of Image Data COMP 551 (001/002), Fall 2020, McGill University
 
+## Importing the MNIST_synthetic.h5 Dataset
+
+1. Please un-zip the MNIST_synthetic.zip file in this repository.
+2. Upload the H5PY dataset directly to the home directory of your Goole Drive. 
+3. Open the Jupyter Notebook in Google Colab. Make sure you use the same Google account as the previous step. 
+4. Run the Jupyter Notebook in Google Colab. Please follow the instrcutions given by Google Colab at runtime in order to grant the program access to the H5PY dataset saved in your Google Drive.
+
 ## Loading Private Notebooks
 
 Loading a notebook from a private GitHub repository is possible, but requires an additional step to allow Colab to access your files.
